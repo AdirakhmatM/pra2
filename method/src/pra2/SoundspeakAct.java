@@ -11,5 +11,11 @@ public class SoundspeakAct {
         System.out.println("| Bayar = "+s1.Hitunghasil());
         System.out.println("+------------------");
         s1.Hitungharga();
+        
+        Soundspeak s2 = new Soundspeak();
+        s2.listensound();
+        
+        Soundspeak s3 = new Soundspeak("Blaster X",1200,1);
+        s3.listensound();
     }
 }

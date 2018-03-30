@@ -6,9 +6,9 @@ public class Soundspeak {
    double Jumlah;
 
     public Soundspeak() {
-        Merk="Max Bass";
-        Harga=700;
-        Jumlah=2;
+        Merk="Logitech";
+        Harga=500;
+        Jumlah=3;
     }
    
    
