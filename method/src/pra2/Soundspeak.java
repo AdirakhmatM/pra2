@@ -4,6 +4,13 @@ public class Soundspeak {
    String Merk;
    double Harga;
    double Jumlah;
+
+    public Soundspeak() {
+        Merk="Max Bass";
+        Harga=700;
+        Jumlah=2;
+    }
+   
    
    void listensound(){
        System.out.println("+------------------");
