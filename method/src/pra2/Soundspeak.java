@@ -17,7 +17,10 @@ public class Soundspeak {
        Hasil= Harga*Jumlah;
        return Hasil;
    }
-   
-   
+   void Hitungharga(){
+       System.out.println("Harganya adalah :"+Hitunghasil());
+       
+   }
+     
    
 }

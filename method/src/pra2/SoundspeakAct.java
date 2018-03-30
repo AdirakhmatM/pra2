@@ -10,5 +10,6 @@ public class SoundspeakAct {
         s1.listensound();
         System.out.println("| Bayar = "+s1.Hitunghasil());
         System.out.println("+------------------");
+        s1.Hitungharga();
     }
 }
