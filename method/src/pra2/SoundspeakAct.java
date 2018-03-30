@@ -5,5 +5,7 @@ public class SoundspeakAct {
         Soundspeak s1 = new Soundspeak();
         s1.Merk="Max Bass";
         s1.Harga= 700;
+        
+        s1.listensound();
     }
 }
