@@ -10,6 +10,13 @@ public class Soundspeak {
         Harga=500;
         Jumlah=3;
     }
+
+    public Soundspeak(String Merk, double Harga, double Jumlah) {
+        this.Merk = Merk;
+        this.Harga = Harga;
+        this.Jumlah = Jumlah;
+    }
+    
    
    
    void listensound(){
