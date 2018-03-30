@@ -1,6 +1,6 @@
 package pra2;
 
-public class Rectang {
+public class Soundspeak {
    String Merk;
    int Harga;
    
